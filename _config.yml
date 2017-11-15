@@ -1,8 +1,9 @@
 # Site settings
-title: 刘彦玮的技术博客
-email: coolnameismy@hotmail.com
-description: > #刘彦玮的技术博客
-baseurl: "" # the subpath of your site, e.g. /blog/
+title: 逆流的技术博客
+email: helloworldismytag@hotmail.com
+description: > #你逆流技术博客
+baseurl:  # the subpath of your site, e.g. /blog/
+url:  # the base hostname & protocol for your site
 # url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
 #twitter_username: coolnameismy@hotmail.com
 #github_username:  coolnameismy
